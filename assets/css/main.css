@@ -2553,7 +2553,7 @@ input[type="button"].small,
 }
 
 #header .logo {
-    background: url("../../images/ProfilePic.jpg");
+    background: url("../../images/profilepic.jpg");
     background-size: cover;
     border-radius: 100%;
     color: #ffffff;
